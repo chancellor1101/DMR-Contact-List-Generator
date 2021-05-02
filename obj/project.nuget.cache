@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+RHJBVB8z2rn/DqZg+leRoLLvyLd4q4OTAiuBRzVZjY/yMoMIzCSKCynxxoIQkM25vVMdkyHsPXquMoqU+o0iQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\clint\\source\\repos\\DMR Contact List Generator\\DMR Contact List Generator\\DMR Contact List Generator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\clint\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\clint\\.nuget\\packages\\sky.data.csv\\2.5.0\\sky.data.csv.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

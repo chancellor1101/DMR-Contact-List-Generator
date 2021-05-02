@@ -1,0 +1,18 @@
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\bin\Debug\netcoreapp3.1\DMR Contact List Generator.exe
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\bin\Debug\netcoreapp3.1\DMR Contact List Generator.deps.json
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\bin\Debug\netcoreapp3.1\DMR Contact List Generator.runtimeconfig.json
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\bin\Debug\netcoreapp3.1\DMR Contact List Generator.runtimeconfig.dev.json
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\bin\Debug\netcoreapp3.1\DMR Contact List Generator.dll
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\bin\Debug\netcoreapp3.1\DMR Contact List Generator.pdb
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR Contact List Generator.csprojAssemblyReference.cache
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR_Contact_List_Generator.Form1.resources
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR Contact List Generator.csproj.GenerateResource.cache
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR Contact List Generator.AssemblyInfoInputs.cache
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR Contact List Generator.AssemblyInfo.cs
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR Contact List Generator.csproj.CoreCompileInputs.cache
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR Contact List Generator.dll
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR Contact List Generator.pdb
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR Contact List Generator.genruntimeconfig.cache
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\obj\Debug\netcoreapp3.1\DMR Contact List Generator.csproj.CopyComplete
+C:\Users\clint\source\repos\DMR Contact List Generator\DMR Contact List Generator\bin\Debug\netcoreapp3.1\Sky.Data.Csv.dll

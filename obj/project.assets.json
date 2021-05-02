@@ -1,0 +1,165 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Newtonsoft.Json/13.0.1": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "Sky.Data.Csv/2.5.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Sky.Data.Csv.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Sky.Data.Csv.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Newtonsoft.Json/13.0.1": {
+      "sha512": "ppPFpBcvxdsfUonNcvITKqLl3bqxWbDCZIzDWHzjpdAHRFfZe0Dw9HmA0+za13IdyrgJwpkDTDA9fHaxOrt20A==",
+      "type": "package",
+      "path": "newtonsoft.json/13.0.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "newtonsoft.json.13.0.1.nupkg.sha512",
+        "newtonsoft.json.nuspec",
+        "packageIcon.png"
+      ]
+    },
+    "Sky.Data.Csv/2.5.0": {
+      "sha512": "R10BmRS+R5Oj0H9661ufE90FL60Jjt1bqYPlUFRIZhrm4J/oIPeoJ+jDQpgXTS835B+4ZKGe1AOR7rM4u27u8A==",
+      "type": "package",
+      "path": "sky.data.csv/2.5.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Sky.Data.Csv.png",
+        "lib/net20/Sky.Data.Csv.dll",
+        "lib/net20/Sky.Data.Csv.pdb",
+        "lib/net20/Sky.Data.Csv.xml",
+        "lib/net35/Sky.Data.Csv.dll",
+        "lib/net35/Sky.Data.Csv.pdb",
+        "lib/net35/Sky.Data.Csv.xml",
+        "lib/net40/Sky.Data.Csv.dll",
+        "lib/net40/Sky.Data.Csv.pdb",
+        "lib/net40/Sky.Data.Csv.xml",
+        "lib/net45/Sky.Data.Csv.dll",
+        "lib/net45/Sky.Data.Csv.pdb",
+        "lib/net45/Sky.Data.Csv.xml",
+        "lib/net48/Sky.Data.Csv.dll",
+        "lib/net48/Sky.Data.Csv.pdb",
+        "lib/net48/Sky.Data.Csv.xml",
+        "lib/netstandard2.0/Sky.Data.Csv.dll",
+        "lib/netstandard2.0/Sky.Data.Csv.pdb",
+        "lib/netstandard2.0/Sky.Data.Csv.xml",
+        "sky.data.csv.2.5.0.nupkg.sha512",
+        "sky.data.csv.nuspec"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Newtonsoft.Json >= 13.0.1",
+      "Sky.Data.Csv >= 2.5.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\clint\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\clint\\source\\repos\\DMR Contact List Generator\\DMR Contact List Generator\\DMR Contact List Generator.csproj",
+      "projectName": "DMR Contact List Generator",
+      "projectPath": "C:\\Users\\clint\\source\\repos\\DMR Contact List Generator\\DMR Contact List Generator\\DMR Contact List Generator.csproj",
+      "packagesPath": "C:\\Users\\clint\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\clint\\source\\repos\\DMR Contact List Generator\\DMR Contact List Generator\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\clint\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Newtonsoft.Json": {
+            "target": "Package",
+            "version": "[13.0.1, )"
+          },
+          "Sky.Data.Csv": {
+            "target": "Package",
+            "version": "[2.5.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
